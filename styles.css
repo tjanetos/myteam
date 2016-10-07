@@ -14,6 +14,15 @@
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
     display: block;
-    max-width: 25%;
+    max-width: 35%;
     height: auto;
+}
+
+.panel-primary>.panel-heading {
+    color: white;
+    font-size: 28;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: purple;
+    border-color: purple;
 }
