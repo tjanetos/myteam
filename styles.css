@@ -1,6 +1,6 @@
 #myHeader {
   font-size: 78;
-  color: purple;
+  color: #400099;
   font-family: 'Lobster', cursive;
 }
 
@@ -8,7 +8,7 @@
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
-    color: purple;
+    color: #400099;
     font-family: 'Lobster', cursive;
 }
 
@@ -23,6 +23,6 @@
     font-size: 28;
     text-align: center;
     font-family: 'Lobster', cursive;
-    background-color: purple;
-    border-color: purple;
+    background-color: #400099;
+    border-color: #400099;
 }
